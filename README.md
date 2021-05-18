@@ -1,4 +1,4 @@
-# hyperblog
+# Hyperblog
 
-Un blog increible para el curso de git
-aca te va el footer
+- Un blog increible para el curso de git
+- Acá te va el footer
