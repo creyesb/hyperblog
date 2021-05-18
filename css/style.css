@@ -40,3 +40,11 @@ body {
 #img {
   margin-left: 30px;
 }
+#footer {
+  background: black;
+  color: #ddd;
+  text-align: center;
+  align-items: center;
+
+  padding: 0.5em;
+}
